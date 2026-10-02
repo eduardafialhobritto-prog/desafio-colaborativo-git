@@ -18,3 +18,12 @@ Neste semestre, a equipe desenvolveu conhecimentos nas seguintes linguagens e te
 
 - Modelagem de Banco de Dados
 
+## Apresentação dos integrantes
+
+| Nome | Curso Em Andamento |
+
+| Sérgio Otávio | Sistema de Informação |
+| Bianca Moura | Sistema de Informação |
+| Luana Brito | Sistema de Informação |
+| Eduarda Fialho | Sistema de Informação |
+| Alan Menezes | Analise Desenvolvimento de Sistemas |
