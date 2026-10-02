@@ -18,6 +18,17 @@ Neste semestre, a equipe desenvolveu conhecimentos nas seguintes linguagens e te
 
 - Modelagem de Banco de Dados
 
+<<<<<<< HEAD
+## Apresentação dos integrantes
+
+| Nome | Curso Em Andamento |
+
+| Sérgio Otávio | Sistema de Informação |
+| Bianca Moura | Sistema de Informação |
+| Luana Brito | Sistema de Informação |
+| Eduarda Fialho | Sistema de Informação |
+| Alan Menezes | Analise Desenvolvimento de Sistemas |
+=======
 📚 Documentação de Componentes — Projeto EchoStream
 
 Este documento centraliza a arquitetura dos componentes do sistema, suas atribuições e a alocação de responsabilidades entre os membros da equipe de desenvolvimento.
@@ -36,3 +47,4 @@ Este documento centraliza a arquitetura dos componentes do sistema, suas atribui
 
 
 
+>>>>>>> 1db965d2773597d58fa904d3b88873b273107251
