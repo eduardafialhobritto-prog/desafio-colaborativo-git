@@ -59,3 +59,15 @@ O GitHub vai muito além de armazenar arquivos; ele é a principal rede social e
 * **⏳ Controle de Versão com Git:** Permite salvar o histórico de tudo o que é programado. Se algo der errado, é possível voltar no tempo (*rollback*) sem perder o que já funcionava.
 * **🤝 Trabalho em Equipe Descomplicado:** Facilita a colaboração entre desenvolvedores de qualquer lugar. Várias pessoas trabalham no mesmo projeto simultaneamente de forma organizada através de *branches*, *pull requests* e revisões.
 * **🔒 Backup e Segurança:** Se o computador falhar ou for trocado, seus códigos continuam seguros, atualizados e acessíveis de qualquer lugar na nuvem.
+
+# Canais de Contato
+
+Abaixo estão os nossos principais meios de comunicação:
+
+|      Nome      |      Contato     |
+
+| Sérgio Otávio  | (38) 9 8417-2545 |
+| Eduarda Fialho | (61) 9 9400-6246 |
+| Alan Menezes   | (61) 9 8249-3730 |
+| Bianca Moura   | (61) 9 9410-2585 |
+| Luana Brito    | (61) 9 9311-9915 |
