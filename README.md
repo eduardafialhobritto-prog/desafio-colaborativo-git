@@ -4,7 +4,7 @@
 
 ## Linguagens e Tecnologias Estudadas
 
-
+alguma
 
 Neste semestre, a equipe desenvolveu conhecimentos nas seguintes linguagens e tecnologias:
 
