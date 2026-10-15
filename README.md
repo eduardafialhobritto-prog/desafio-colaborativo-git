@@ -71,3 +71,25 @@ Abaixo estão os nossos principais meios de comunicação:
 | Alan Menezes   | (61) 9 8249-3730 |
 | Bianca Moura   | (61) 9 9410-2585 |
 | Luana Brito    | (61) 9 9311-9915 |
+
+
+# Aprendizados e Desafios do Grupo
+
+## Aprendizados
+
+Durante o desenvolvimento do projeto, o grupo teve a oportunidade de aprender e aprimorar conhecimentos sobre:
+Utilização do Git para controle de versão do código.
+Criação e gerenciamento de branches para organizar o desenvolvimento.
+Uso do GitHub para compartilhar código e colaborar em equipe.
+Organização e divisão de tarefas entre os integrantes.
+Documentação do projeto utilizando Markdown.
+Desafios
+Durante a execução do projeto, alguns desafios encontrados foram:
+
+Resolver conflitos de merge ao integrar alterações de diferentes integrantes.
+Manter o código organizado e atualizado entre os membros do grupo.
+Coordenar as tarefas para garantir que todos contribuíssem para o desenvolvimento.
+Padronizar a documentação e manter as informações do projeto atualizadas.
+Lições Aprendidas
+A experiência demonstrou a importância da comunicação entre os integrantes, do uso adequado do controle de versão e da documentação para facilitar a manutenção e a evolução do projeto.
+
